@@ -1,0 +1,17 @@
+.page__body {
+  margin: 0;
+  background-color: bisque;
+  font-family: 'Arial', sans-serif;
+}
+.page__title {
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 40px;
+  line-height: 45px;
+}
+.page__description {
+  margin-bottom: 50px;
+  text-align: center;
+  font-size: 26px;
+  line-height: 30px;
+}

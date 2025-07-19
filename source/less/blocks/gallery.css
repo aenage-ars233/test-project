@@ -1,0 +1,22 @@
+.gallery {
+  width: 1300px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+.gallery__title {
+  text-align: center;
+  font-size: 30px;
+}
+.gallery__container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.gallery__thumbnails {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.gallery__thumbnail--active {
+  box-shadow: 0 0 6px 5px red;
+}
